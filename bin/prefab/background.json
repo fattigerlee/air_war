@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"var":"background","presetID":1,"isPresetRoot":true},"compId":17,"child":[{"type":"Script","props":{"presetID":3,"runtime":"view/game/Background.ts"},"compId":18}],"loadList":[],"loadList3D":[]}
